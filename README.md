@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=15&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=Hello!+This+is+Niladri+Das+ 👾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=15&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=Hello+I+am+Niladri+Das)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working at [Sandia National Laboratories](https://www.sandia.gov).
 - 🌱 I’m interested in the areas of Bayesian inferencing, privacy in ML, experiment design, and controls.
